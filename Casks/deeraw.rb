@@ -1,6 +1,6 @@
 cask "deeraw" do
-  version "0.8.1"
-  sha256 "08928d1d31120bdac7786cb643bc27736623f1c3feaa66d02e3dcc912042ec35"
+  version "0.9.0"
+  sha256 "b8082e4a3cee870598690958a0b1077868c9c9a12af14dc876a9383500f72986"
 
   url "https://github.com/briedis/deeraw/releases/download/v#{version}/deeraw-macos-universal.zip"
   name "Deeraw"
